@@ -1,13 +1,3 @@
-/*  RickRollCode
-
-    AUTHOR: Rowan Packard
-    rowanpackard@gmail.com
-
-    DISCLAIMER: The song "Never Gonna Give You Up" by Rick Astley
-    is not  the creative property of the author. This code simply
-    plays a Piezo buzzer  rendition of the song.
-*/
-
 #define  a3f    208     // 208 Hz
 #define  b3f    233     // 233 Hz
 #define  b3     247     // 247 Hz
