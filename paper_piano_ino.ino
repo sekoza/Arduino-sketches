@@ -1,9 +1,3 @@
-/* Original project by Oh Hai Seng 07 November 2013 
- To watch the Demo of his Project:
-     http://www.youtube.com/watch?v=X4QNT5hOHLs&list=TLlm-tAV1gEzDF4VV39VdjCSLNlfe0tTpU
-
-*/
-
 // Import the CapacitiveSensor Library.
 #include <CapacitiveSensor.h>
 
