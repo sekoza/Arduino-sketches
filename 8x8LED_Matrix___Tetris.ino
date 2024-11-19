@@ -1,12 +1,4 @@
-//------------------------------------------------------------------------------
-// 8x8 single color LED Tetris for Arduino UNO.
-// https://importhack.wordpress.com/
-//------------------------------------------------------------------------------
-// The below code has been done form the not finished code:
-// http://www.github.com/MarginallyClever/8x8LEDtetris
-
-/*
- HARDWARE
+ HARDWARE
  ---
  The LED grid is a red 8x8 model 1088BS.
  The Arduino is an UNO.
@@ -795,21 +787,4 @@ void PrintGridVirtual(){
     Serial.println();
   }
   Serial.println();
-}
-
-/**
-* This file is part of LED8x8tetris.
-*
-* LED8x8tetris is free software: you can redistribute it and/or modify
-* it under the terms of the GNU General Public License as published by
-* the Free Software Foundation, either version 3 of the License, or
-* (at your option) any later version.
-*
-* LED8x8tetris is distributed in the hope that it will be useful,
-* but WITHOUT ANY WARRANTY; without even the implied warranty of
-* MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. See the
-* GNU General Public License for more details.
-*
-* You should have received a copy of the GNU General Public License
-* along with Arduino Timer Interrupt. If not, see <http://www.gnu.org/licenses/>.
-*/
+}
