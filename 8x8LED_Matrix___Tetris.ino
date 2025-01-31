@@ -1,3 +1,6 @@
+  MADE BY
+ ---
+Samuel Čavoj
  HARDWARE
  ---
  The LED grid is a red 8x8 model 1088BS.
